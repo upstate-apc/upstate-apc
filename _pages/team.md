@@ -1,7 +1,7 @@
 ---
 title: "APC Lab - Team"
 layout: gridlay
-excerpt: "APC Lab: Team members"
+excerpt: "APC Lab -- Team members"
 sitemap: false
 permalink: /team/
 ---
