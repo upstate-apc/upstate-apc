@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Upstate Medical University](https://www.upstate.edu) [Division of Rheumatology](https://www.upstate.edu/rheumatology/). We study human autoimmune diseases, particularly Rheumatoid Arthritis (RA) and Systemic Lupus Erythematosus (SLE); our aim is to explore and understand the role of [antigen-presenting cells](https://en.wikipedia.org/wiki/Antigen-presenting_cell), particularly myeloid dendritic cells and plasmacytoid dendritic cells. 
+We are a dynamic research group at the [Upstate Medical University](https://www.upstate.edu) [Division of Rheumatology](https://www.upstate.edu/rheumatology/). We study human autoimmune diseases, particularly Rheumatoid Arthritis (RA) and Systemic Lupus Erythematosus (SLE); our aim is to explore and understand the role of [antigen-presenting cells](https://en.wikipedia.org/wiki/Antigen-presenting_cell), particularly myeloid dendritic cells and plasmacytoid dendritic cells.
 
-
+<!--
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -73,4 +73,4 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
+</figure> -->
