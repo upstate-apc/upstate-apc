@@ -1,6 +1,6 @@
 ---
 title: "Upstate APC - Research"
-layout: why-apc
+layout: textlay
 excerpt: "Upstate APC -- Research"
 sitemap: false
 permalink: /why-apc/
