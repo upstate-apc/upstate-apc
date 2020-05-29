@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Upstate APC - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "APC Lab at Upstate Medical University."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a dynamic research group at the [Upstate Medical University](https://www.upstate.edu) [Division of Rheumatology](https://www.upstate.edu/rheumatology/). We study human autoimmune diseases, particularly Rheumatoid Arthritis (RA) and Systemic Lupus Erythematosus (SLE); our aim is to explore and understand the role of [antigen-presenting cells](https://en.wikipedia.org/wiki/Antigen-presenting_cell), particularly myeloid dendritic cells and plasmacytoid dendritic cells. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
